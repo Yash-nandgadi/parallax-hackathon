@@ -27,13 +27,9 @@ parallax-hackathon/
 ⚙️ Setup & Installation
 
 1. Clone the repository.
-2. Install the required dependencies:
-
-pip install -r requirements.txt
-
-3. Run the demo using:
-
-run_demo.bat
+2. add all files in an folder named patchproof
+3. then double click on 2run_demo.bat
+4. it will install required things and run it in browser locally
 
 ✨ Key Features
 
